@@ -1,0 +1,44 @@
+.container{
+    width: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container img{
+    height: 500px;
+}
+
+.container p{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 16px;
+
+}
+
+.container span{
+    color: var(--red)
+}
+
+.btn{
+    transition: 0.03s;
+}
+
+.btn-red {
+    width: 280px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--red);
+    color: var(--white);
+    cursor: pointer;
+
+}
+
+.btn-red:hover{
+    background-color: var(--primary);
+}

@@ -1,0 +1,18 @@
+:root {
+  font-family: 'fira code', monospace;
+
+    --primary: #16213e;
+    --secondary: #0f3460;
+    --terceary: #533483;
+    --red: #e94560;
+    --sorft-white: #f1f1f1;
+    --white: #fefefe;
+    --black: #111;
+    --gray: #222222;
+}
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
