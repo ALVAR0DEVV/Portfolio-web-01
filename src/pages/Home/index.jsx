@@ -12,7 +12,7 @@ function Home() {
                         Dev Frontend
                     </p>
                     <button className='btn btn-red'>
-                        Saiba mais
+                        Saiba mais e mais um pouco sobre mim
                     </button>
                 </div>
                 <figure>
